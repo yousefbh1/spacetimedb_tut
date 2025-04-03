@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/8NT5HcgGk=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\DebateMapv0\\quickstart-chat\\client\\client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\youse\\.nuget\\packages\\spacetimedb.bsatn.runtime\\1.0.0\\spacetimedb.bsatn.runtime.1.0.0.nupkg.sha512",
+    "C:\\Users\\youse\\.nuget\\packages\\spacetimedb.clientsdk\\1.0.1\\spacetimedb.clientsdk.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
