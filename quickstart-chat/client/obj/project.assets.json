@@ -75,11 +75,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\DebateMapv0\\quickstart-chat\\client\\client.csproj",
+      "projectUniqueName": "C:\\Projects\\spacetimedb_web\\quickstart-chat\\client\\client.csproj",
       "projectName": "client",
-      "projectPath": "C:\\Projects\\DebateMapv0\\quickstart-chat\\client\\client.csproj",
+      "projectPath": "C:\\Projects\\spacetimedb_web\\quickstart-chat\\client\\client.csproj",
       "packagesPath": "C:\\Users\\youse\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\DebateMapv0\\quickstart-chat\\client\\obj\\",
+      "outputPath": "C:\\Projects\\spacetimedb_web\\quickstart-chat\\client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\youse\\AppData\\Roaming\\NuGet\\NuGet.Config"
